@@ -6,26 +6,26 @@
 
 x1 Arduino Uno,
 
-x1 GY-87,
+x1 GY-87 αισθητήρας 3 αξόνων και υψομέτρου
 
-x1 GPS module,
+x1 GPS module για τον προσδιορισμό θέσης
 
-x1 Esp32 module (bluetooth, wifi),
+x1 Esp32 module (bluetooth, wifi) για τον χειρισμό του
 
-x1 prototype board,
+x1 prototype board, για σύνδεση των εξαρτημάτων
 
-x2 LEDs,
+x2 LEDs, 
 
 Resistors 300Ω+1k+1,5K,
 
-x1 Lipo battery 2200 mah-30C,
+x1 Lipo battery 2200 mah-30C, μπαταρία
 
-x4 brushless motors 1000KV,
+x4 brushless motors 1000KV, κινητήρας
 
-x4 ESCs 30A,
+x4 ESCs 30A, μονάδα ελέγχου κινητήρα
 
 x4 1045 έλικες για drone,
 
-x1 σκελετος drone,
+x1 σκελετος drone
 
 
